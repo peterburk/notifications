@@ -27,3 +27,6 @@ Warning: date(): It is not safe to rely on the system's timezone settings. You a
 
 Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/peter/Sites/notifications/index.php on line 121
 2016-11-25 | 07:10:48am > Su Chii - [iemember
+
+Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/peter/Sites/notifications/index.php on line 121
+2016-11-25 | 07:14:10am > Su Chii - Hi`in the cs fb pageemember? and you were the one approved my joining
